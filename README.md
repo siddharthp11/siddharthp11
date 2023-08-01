@@ -1,4 +1,4 @@
-### Hey there! A little bit about me down below -
+### Hey there! Here's a little bit about me- 
 - 🔭 current interests: 
     - shell apps! i love shell apps that can improve your productivity as a dev and otherwise.
     - ai playgrounds. i've recently enjoy building playgrounds on streamlit, and i'm curious to learn more about how these are built
